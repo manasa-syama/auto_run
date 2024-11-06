@@ -1,2 +1,2 @@
 # auto_run
-this is for testing the auto scripts
+this is for testing the auto scripts aq
